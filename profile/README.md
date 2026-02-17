@@ -43,36 +43,30 @@ Python-based document parsing service for extracting and processing content from
 Our organization leverages modern technologies:
 
 - **Frontend:** Svelte, SvelteKit, Astro, TypeScript
-- - **Backend:** Python, Node.js, Cloudflare Workers
-  - - **Infrastructure:** Docker, PostgreSQL, Elasticsearch, Cloudflare D1
-    - - **Tools:** Vite, Drizzle ORM, pnpm, Poetry
-     
-      - ## 📊 Top Languages
-     
-      - - Svelte
-        - - Python
-          - - TypeScript
-            - - Astro
-              - - Shell
-               
-                - ## 🌟 Getting Started
-               
-                - Each repository contains its own README with detailed setup instructions. Most projects follow these general steps:
-               
-                - 1. Clone the repository
-                  2. 2. Install dependencies (`pnpm install`, `npm install`, or `poetry install`)
-                     3. 3. Configure environment variables
-                        4. 4. Run development server (`pnpm dev`, `npm run dev`, etc.)
-                          
-                           5. ## 🔗 Links
-                          
-                           6. - Website: [praktik.ai](https://praktik.ai)
-                              - - GitHub: [@praktik-ai](https://github.com/praktik-ai)
-                               
-                                - ## 👥 Team
-                               
-                                - Built with passion by our team of developers focused on making document processing intelligent and efficient.
-                               
-                                - ---
+- **Backend:** Python, Node.js, Cloudflare Workers
+- **Infrastructure:** Docker, PostgreSQL, Elasticsearch, Cloudflare D1
+- **Tools:** Vite, Drizzle ORM, pnpm, Poetry
 
-                                *For more information about specific projects, please visit their respective repositories.*
+## 📊 Top Languages
+
+- Svelte
+- Python
+- TypeScript
+- Astro
+- Shell
+
+## 🌟 Getting Started
+
+- Each repository contains its own README with detailed setup instructions. Most projects follow these general steps:
+
+1. Clone the repository
+2. Install dependencies (`pnpm install`, `npm install`, or `poetry install`)
+3. Configure environment variables
+4. Run development server (`pnpm dev`, `npm run dev`, etc.)
+
+## 🔗 Links
+- Website: [praktik.ai](https://praktik.ai)
+- GitHub: [@praktik-ai](https://github.com/praktik-ai)
+
+## 👥 Team
+- Built with passion by our team of developers focused on making document processing intelligent and efficient.
